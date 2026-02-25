@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "video-testimonial-1",
+      "description": "Video testimonial placeholder 1",
+      "imageUrl": "https://images.unsplash.com/photo-1556742208-999815fca738?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "business owner portrait"
+    },
+    {
+      "id": "video-testimonial-2",
+      "description": "Video testimonial placeholder 2",
+      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "store owner portrait"
+    },
+    {
+      "id": "team-meeting",
+      "description": "Team meeting placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "team working"
+    },
+    {
+      "id": "kelvin-specialist",
+      "description": "Kelvin - Keep Ads Specialist",
+      "imageUrl": "https://images.unsplash.com/photo-1695266391814-a276948f1775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYWxlJTIwc3BlY2lhbGlzdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc3MTk0NjAxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male specialist portrait"
+    },
+    {
+      "id": "hero-team",
+      "description": "Equipe Keep Ads colaborando",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "about-team",
+      "description": "Equipe Keep Ads",
+      "imageUrl": "https://images.unsplash.com/photo-1573497491208-6b1acb260507?q=80&w=1080&auto=format&fit=crop",
+      "imageHint": "professional team photo"
+    }
+  ]
+}
